@@ -1,0 +1,12 @@
+[
+    {
+        "scheme": "pbdf-requestors",
+        "hostnames": [
+            "privacybydesign.foundation"
+        ],
+        "name": {
+            "en": "Privacy by Design Foundation",
+            "nl": "Stichting Privacy by Design"
+        }
+    }
+]
