@@ -1,12 +1,82 @@
 [
     {
-        "scheme": "pbdf-requestors",
         "hostnames": [
             "privacybydesign.foundation"
         ],
         "name": {
             "en": "Privacy by Design Foundation",
             "nl": "Stichting Privacy by Design"
-        }
+        },
+        "scheme": "pbdf-requestors"
+    },
+    {
+        "hostnames": [
+            "gw.nijmegen.nl"
+        ],
+        "name": {
+            "en": "Your Municipality",
+            "nl": "Je Gemeente"
+        },
+        "scheme": "pbdf-requestors"
+    },
+    {
+        "hostnames": [
+            "irma.ivido.nl"
+        ],
+        "name": {
+            "en": "Ivido",
+            "nl": "Ivido"
+        },
+        "scheme": "pbdf-requestors"
+    },
+    {
+        "hostnames": [
+            "irma-agb.nuts.nl"
+        ],
+        "name": {
+            "en": "Nuts",
+            "nl": "Nuts"
+        },
+        "scheme": "pbdf-requestors"
+    },
+    {
+        "hostnames": [
+            "irma.surfconext.nl"
+        ],
+        "name": {
+            "en": "SURF",
+            "nl": "SURF"
+        },
+        "scheme": "pbdf-requestors"
+    },
+    {
+        "hostnames": [
+            "irma.vgz.nl"
+        ],
+        "name": {
+            "en": "VGZ",
+            "nl": "VGZ"
+        },
+        "scheme": "pbdf-requestors"
+    },
+    {
+        "hostnames": [
+            "irma.gebiedonline.nl"
+        ],
+        "name": {
+            "en": "Gebiedonline",
+            "nl": "Gebiedonline"
+        },
+        "scheme": "pbdf-requestors"
+    },
+    {
+        "hostnames": [
+            "irma.hix365.nl"
+        ],
+        "name": {
+            "en": "ChipSoft",
+            "nl": "ChipSoft"
+        },
+        "scheme": "pbdf-requestors"
     }
 ]
