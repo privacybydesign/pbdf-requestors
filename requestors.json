@@ -78,5 +78,15 @@
             "nl": "ChipSoft"
         },
         "scheme": "pbdf-requestors"
+    },
+    {
+        "hostnames": [
+            "sidnemailissuer.irmaconnect.nl"
+        ],
+        "name": {
+            "en": "SIDN on behalf of Privacy by Design Foundation",
+            "nl": "SIDN namens Stichting Privacy by Design"
+        },
+        "scheme": "pbdf-requestors"
     }
 ]
