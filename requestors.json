@@ -21,16 +21,6 @@
     },
     {
         "hostnames": [
-            "irma.ivido.nl"
-        ],
-        "name": {
-            "en": "Ivido",
-            "nl": "Ivido"
-        },
-        "scheme": "pbdf-requestors"
-    },
-    {
-        "hostnames": [
             "irma-agb.nuts.nl"
         ],
         "name": {
@@ -88,5 +78,92 @@
             "nl": "SIDN namens Stichting Privacy by Design"
         },
         "scheme": "pbdf-requestors"
+    },
+    {
+        "hostnames": [
+            "irma.ivido.nl"
+        ],
+        "name": {
+            "en": "Ivido",
+            "nl": "Ivido"
+        },
+        "scheme": "pbdf-requestors",
+        "wizards": {
+            "ivido_client": {
+                "id": "ivido_client",
+                "logo": "9c0e7f96ccc27b8159e631ff0a13c20cf9702c40c0f0f827dfe004a849125fda",
+                "title": {
+                    "nl": "Ivido PGO",
+                    "en": "Ivido PHE"
+                },
+                "info": {
+                    "nl": "Je moet je kenbaar maken voor het gebruik van Ivido. Hiervoor laad je nu eerst je gegevens in IRMA.\n## Wat is Ivido PGO?\nIvido is je Persoonlijke Gezondheidsomgeving (PGO) waar je al je gegevens over jouw gezondheid kunt opslaan en delen met jouw zorgnetwerk. Een omgeving met begrijpelijke informatie en relevante applicaties, die een leven lang meegaat. Je gebruikt IRMA om je te registreren en om in te loggen bij Ivido PGO.",
+                    "en": "You must register for using Ivido. To do this, you now first add your data into IRMA.\n ## What is Ivido PHE?\nIvido is your Personal Health Environment (PHE) where you can store and share all your data about your health with your healthcare network. An environment with understandable information and relevant applications that will last a lifetime. You use IRMA to register and to log in to Ivido PHE."
+                },
+                "faq": [
+                    {
+                        "question": {
+                            "nl": "Waar haal je de gegevens op?",
+                            "en": "Where do you get the data?"
+                        },
+                        "answer": {
+                            "nl": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                            "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                        }
+                    },
+                    {
+                        "question": {
+                            "nl": "Welke gegevens haal je op?",
+                            "en": "Which data are added?"
+                        },
+                        "answer": {
+                            "nl": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                            "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                        }
+                    },
+                    {
+                        "question": {
+                            "nl": "Hoe werkt het?",
+                            "en": "How does it work?"
+                        },
+                        "answer": {
+                            "nl": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                            "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                        }
+                    }
+                ],
+                "intro": {
+                    "nl": "Doorloop eenmalig onderstaande stappen om toegang tot Ivido PGO te krijgen.",
+                    "en": "Go through the steps below once to gain access to Ivido PHE."
+                },
+                "successHeader": {
+                    "nl": "Gelukt!",
+                    "en": "Done!"
+                },
+                "successText": {
+                    "nl": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                    "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                },
+                "expandDependencies": false,
+                "contents": [
+                    [
+                        [
+                            {
+                                "type": "credential",
+                                "credential": "pbdf.gemeente.personalData"
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            {
+                                "type": "credential",
+                                "credential": "pbdf.ivido.login"
+                            }
+                        ]
+                    ]
+                ]
+            }
+        }
     }
 ]
