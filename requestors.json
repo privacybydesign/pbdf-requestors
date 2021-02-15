@@ -1,5 +1,6 @@
 [
     {
+        "id": "pbdf-requestors.pbdf",
         "hostnames": [
             "privacybydesign.foundation"
         ],
@@ -10,6 +11,7 @@
         "scheme": "pbdf-requestors"
     },
     {
+        "id": "pbdf-requestors.gemeente",
         "hostnames": [
             "gw.nijmegen.nl"
         ],
@@ -20,6 +22,7 @@
         "scheme": "pbdf-requestors"
     },
     {
+        "id": "pbdf-requestors.ivido",
         "hostnames": [
             "irma.ivido.nl"
         ],
@@ -30,6 +33,7 @@
         "scheme": "pbdf-requestors"
     },
     {
+        "id": "pbdf-requestors.nuts",
         "hostnames": [
             "irma-agb.nuts.nl"
         ],
@@ -40,6 +44,7 @@
         "scheme": "pbdf-requestors"
     },
     {
+        "id": "pbdf-requestors.surf",
         "hostnames": [
             "irma.surfconext.nl"
         ],
@@ -50,6 +55,7 @@
         "scheme": "pbdf-requestors"
     },
     {
+        "id": "pbdf-requestors.vgz",
         "hostnames": [
             "irma.vgz.nl"
         ],
@@ -60,6 +66,7 @@
         "scheme": "pbdf-requestors"
     },
     {
+        "id": "pbdf-requestors.gebiedonline",
         "hostnames": [
             "irma.gebiedonline.nl"
         ],
@@ -70,6 +77,7 @@
         "scheme": "pbdf-requestors"
     },
     {
+        "id": "pbdf-requestors.chipsoft",
         "hostnames": [
             "irma.hix365.nl"
         ],
@@ -80,6 +88,7 @@
         "scheme": "pbdf-requestors"
     },
     {
+        "id": "pbdf-requestors.sidn-email",
         "hostnames": [
             "sidnemailissuer.irmaconnect.nl"
         ],
