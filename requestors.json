@@ -88,9 +88,10 @@
         "scheme": "pbdf-requestors"
     },
     {
-        "id": "pbdf-requestors.sidn-email",
+        "id": "pbdf-requestors.sidn-pbdf",
         "hostnames": [
-            "sidnemailissuer.irmaconnect.nl"
+            "sidnemailissuer.irmaconnect.nl",
+            "sidnsmsissuer.irmaconnect.nl"
         ],
         "name": {
             "en": "SIDN on behalf of Privacy by Design Foundation",
