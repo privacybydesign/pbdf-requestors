@@ -105,8 +105,8 @@
         "hostnames": [
             "id.amsterdam.nl",
             "acc.id.amsterdam.nl",
-            "irmademo.pinkprivate.cloud",
-            "irmademo-acc.pinkprivate.cloud"
+            "irma-id.pinkprivate.cloud",
+            "irma-id-acc.pinkprivate.cloud"
         ],
         "name": {
             "en": "City of Amsterdam",
