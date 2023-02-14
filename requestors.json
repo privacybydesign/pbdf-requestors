@@ -113,5 +113,17 @@
             "nl": "Gemeente Amsterdam"
         },
         "scheme": "pbdf-requestors"
-    }
+    },
+    {
+        "id": "pbdf-requestors.ver-id",
+        "logo": "f8f6e142bfbb2a6ca936c5718246bd62ed4a288a0125abf7581a841f9dfeff8a",
+        "hostnames": [
+            "wallets.yivi.ver.id"
+        ],
+        "name": {
+            "en": "Ver.iD",
+            "nl": "Ver.iD"
+        },
+        "scheme": "pbdf-requestors"
+  }
 ]
