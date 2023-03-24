@@ -91,11 +91,15 @@
         "id": "pbdf-requestors.sidn-pbdf",
         "hostnames": [
             "sidnemailissuer.irmaconnect.nl",
-            "sidnsmsissuer.irmaconnect.nl"
+            "sidnemailissuer.yiviconnect.nl",
+            "sidnsmsissuer.irmaconnect.nl",
+            "sidnsmsissuer.yiviconnect.nl",
+            "uniqueid.irmaconnect.nl",
+            "uniqueid.yiviconnect.nl"
         ],
         "name": {
-            "en": "SIDN on behalf of Privacy by Design Foundation",
-            "nl": "SIDN namens Stichting Privacy by Design"
+            "en": "Yivi",
+            "nl": "Yivi"
         },
         "scheme": "pbdf-requestors"
     },
