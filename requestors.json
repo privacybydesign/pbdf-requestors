@@ -1,6 +1,7 @@
 [
     {
         "id": "pbdf-requestors.pbdf",
+        "logo": "06407c441f507c5789e283ad1a428437c1b0df997787abdf0defac41e28dc2c1",
         "hostnames": [
             "privacybydesign.foundation"
         ],
@@ -12,6 +13,7 @@
     },
     {
         "id": "pbdf-requestors.gemeente",
+        "logo": "8a2845d0013fb97d6d831c0d2c8ef50b2b2e28a376778fed79c0a606ae4880a4",
         "hostnames": [
             "gw.nijmegen.nl"
         ],
@@ -23,6 +25,7 @@
     },
     {
         "id": "pbdf-requestors.ivido",
+        "logo": "dab913d5bf86a2858ebec236e21a62ee910776eb08a32580bcd02c8edde2c1b7",
         "hostnames": [
             "irma.ivido.nl"
         ],
@@ -34,6 +37,7 @@
     },
     {
         "id": "pbdf-requestors.nuts",
+        "logo": "d17e9adb00041880f28a0d2332a4ea01637dd39b69b6d07da2e922ae57d240f7",
         "hostnames": [
             "irma-agb.nuts.nl"
         ],
@@ -78,6 +82,7 @@
     },
     {
         "id": "pbdf-requestors.chipsoft",
+        "logo": "90f06c8e87991f64c27b7df8e26e4c4f1b68526086c3a6d86754f55954984821",
         "hostnames": [
             "irma.hix365.nl"
         ],
@@ -89,6 +94,7 @@
     },
     {
         "id": "pbdf-requestors.sidn-pbdf",
+        "logo": "5035c4dd026753812010c5bd834e9715138763970652815db2223a2261d1d508",
         "hostnames": [
             "sidnemailissuer.irmaconnect.nl",
             "sidnemailissuer.yiviconnect.nl",
@@ -105,7 +111,7 @@
     },
     {
         "id": "pbdf-requestors.amsterdam",
-        "logo": "c5d0f1e727ceeb73531281a6b2bc021fb0935dc3b18b4b3e8fe30f5ae410213b",
+        "logo": "b3e107559ffa62f0050eaebc63829a8b841d108446135df76423fd1ff5f9182b",
         "hostnames": [
             "id.amsterdam.nl",
             "acc.id.amsterdam.nl",
@@ -127,6 +133,43 @@
         "name": {
             "en": "Ver.iD",
             "nl": "Ver.iD"
+        },
+        "scheme": "pbdf-requestors"
+    },
+    {
+        "id": "pbdf-requestors.cis",
+        "logo": "bea058fee9cceaa35f3ba3c410bac454a9e898516d7febc131277e90b68df5b3",
+        "hostnames": [
+            "yivi.digitaalpaspoortverzekeren.nl"
+        ],
+        "name": {
+            "en": "Stichting CIS",
+            "nl": "CIS Foundation"
+        },
+        "scheme": "pbdf-requestors"
+    },
+    {
+        "id": "pbdf-requestors.signicat",
+        "logo": "4fdf5b324ebc3cdb022c37e4249058dfce3d2b477fdf3cadb3eb87823b540cea",
+        "hostnames": [
+            "organisatiegegevens.signicat.nl"
+        ],
+        "name": {
+            "en": "Signicat",
+            "nl": "Signicat"
+        },
+        "scheme": "pbdf-requestors"
+    },
+    {
+        "id": "pbdf-requestors.my-yivi",
+        "logo": "5035c4dd026753812010c5bd834e9715138763970652815db2223a2261d1d508",
+        "hostnames": [
+            "my.irma.app",
+            "my.yivi.app"
+        ],
+        "name": {
+            "en": "My Yivi",
+            "nl": "Mijn Yivi"
         },
         "scheme": "pbdf-requestors"
     }
