@@ -144,8 +144,8 @@
             "yivi.digitaalpaspoortverzekeren.nl"
         ],
         "name": {
-            "en": "Stichting CIS",
-            "nl": "CIS Foundation"
+            "en": "CIS Foundation",
+            "nl": "Stichting CIS"
         },
         "scheme": "pbdf-requestors"
     },
