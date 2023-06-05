@@ -178,8 +178,8 @@
         "id": "pbdf-requestors.postguard",
         "logo": "3b34fa111d0761527eb8f6992141e4676515057b44852f281640356073aee679",
         "hostnames": [
-            "stable.postguard-pkg.ihub.ru.nl",
-            "main.postguard-pkg.ihub.ru.nl"
+            "postguard.eu",
+            "main.postguard.ihub.ru.nl"
         ],
         "name": {
             "en": "PostGuard",
