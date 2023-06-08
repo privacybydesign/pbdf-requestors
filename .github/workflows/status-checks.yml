@@ -9,8 +9,6 @@ jobs:
     strategy:
       matrix:
         irmago-version:
-         - v0.4.1
-         - v0.5.0  # Introduces revocation
          - v0.6.1  # Introduces requestor schemes
          - v0.8.0  # Introduces issue wizards in requestor schemes
          - v0.10.0 # Introduces support for defining the languages into which texts should be translated
