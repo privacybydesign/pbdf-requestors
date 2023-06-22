@@ -173,5 +173,18 @@
             "nl": "Mijn Yivi"
         },
         "scheme": "pbdf-requestors"
+    },
+    {
+        "id": "pbdf-requestors.postguard",
+        "logo": "d15bdea93df17e7c46d3be022529793b8315f3d47db1dc763eebdd3cd81a070d",
+        "hostnames": [
+            "postguard.eu",
+            "main.postguard.ihub.ru.nl"
+        ],
+        "name": {
+            "en": "PostGuard",
+            "nl": "PostGuard"
+        },
+        "scheme": "pbdf-requestors"
     }
 ]
