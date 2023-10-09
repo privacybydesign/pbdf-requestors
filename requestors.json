@@ -126,6 +126,19 @@
         "scheme": "pbdf-requestors"
     },
     {
+        "id": "pbdf-requestors.nijmegen",
+        "logo": "0629a4cc125a13ca5cedd8172bc435a0eb5de771de4864c5017755e04c31a0e3",
+        "hostnames": [
+            "mijnijmegen.yiviconnect.nl",
+            "edienstnijmegenprod.yiviconnect.nl"
+        ],
+        "name": {
+            "en": "City of Nijmegen",
+            "nl": "Gemeente Nijmegen"
+        },
+        "scheme": "pbdf-requestors"
+    },
+    {
         "id": "pbdf-requestors.ver-id",
         "logo": "f8f6e142bfbb2a6ca936c5718246bd62ed4a288a0125abf7581a841f9dfeff8a",
         "hostnames": [
