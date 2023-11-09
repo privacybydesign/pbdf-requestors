@@ -141,11 +141,12 @@
         "id": "pbdf-requestors.cis",
         "logo": "bea058fee9cceaa35f3ba3c410bac454a9e898516d7febc131277e90b68df5b3",
         "hostnames": [
+            "digitaalpaspoortverzekeren.nl",
             "yivi.digitaalpaspoortverzekeren.nl"
         ],
         "name": {
-            "en": "CIS Foundation",
-            "nl": "Stichting CIS"
+            "en": "Foundation Central Information System",
+            "nl": "Stichting Centraal Informatie Systeem"
         },
         "scheme": "pbdf-requestors"
     },
