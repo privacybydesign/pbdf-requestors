@@ -15,7 +15,8 @@
         "id": "pbdf-requestors.gemeente",
         "logo": "8a2845d0013fb97d6d831c0d2c8ef50b2b2e28a376778fed79c0a606ae4880a4",
         "hostnames": [
-            "gw.nijmegen.nl"
+            "gw.nijmegen.nl",
+            "issue.yivi-brp-prod.csp-nijmegen.nl"
         ],
         "name": {
             "en": "Your Municipality",
