@@ -190,6 +190,22 @@
         "scheme": "pbdf-requestors"
     },
     {
+        "id": "pbdf-requestors.pubhubs",
+        "logo": "0678b523c84ab1c28678775290b08a9a7d35949c6d7c94c623818c2448ef758a",
+        "hostnames": [
+            "pubhubs.eu",
+            "pubhubs.nl",
+            "pubhubs.net",
+            "pubhubs.org",
+            "stable.pubhubs.ihub.ru.nl"
+        ],
+        "name": {
+            "en": "PubHubs",
+            "nl": "PubHubs"
+        },
+        "scheme": "pbdf-requestors"
+    },
+    {
         "id": "pbdf-requestors.nijmegen",
         "logo": "61e1239aaeb29d73691aa41f9d293157c80e224f41f646c2595b0b7bc3902b27",
         "hostnames": [
