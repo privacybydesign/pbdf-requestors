@@ -211,7 +211,7 @@
         "hostnames": [
             "mijnnijmegen.yiviconnect.nl",
             "edienstnijmegenprd.yiviconnect.nl",
-            "api.yivi-voor-medewerkers.yivi-nijmegen-accp.csp-nijmegen.nl"
+            "api.yivi-voor-medewerkers.yivi-nijmegen-prod.csp-nijmegen.nl"
         ],
         "name": {
             "en": "City of Nijmegen",
