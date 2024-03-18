@@ -210,7 +210,7 @@
         "logo": "61e1239aaeb29d73691aa41f9d293157c80e224f41f646c2595b0b7bc3902b27",
         "hostnames": [
             "mijnnijmegen.yiviconnect.nl",
-            "edienstnijmegenprd.yiviconnect.nl",
+            "webformulierenprod.yiviconnect.nl",
             "api.yivi-voor-medewerkers.yivi-nijmegen-prod.csp-nijmegen.nl"
         ],
         "name": {
