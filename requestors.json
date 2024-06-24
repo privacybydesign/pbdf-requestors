@@ -220,7 +220,7 @@
         "scheme": "pbdf-requestors"
     },
     {
-        "id": "pbdf-requestors.nijmegen",
+        "id": "pbdf-requestors.nijmegen-accp",
         "logo": "61e1239aaeb29d73691aa41f9d293157c80e224f41f646c2595b0b7bc3902b27",
         "hostnames": [
             "mijnnijmegen.staging.yiviconnect.nl",
