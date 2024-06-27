@@ -214,5 +214,19 @@
             "nl": "Gemeente Nijmegen"
         },
         "scheme": "pbdf-requestors"
+    },
+    {
+        "id": "pbdf-requestors.nijmegen-accp",
+        "logo": "61e1239aaeb29d73691aa41f9d293157c80e224f41f646c2595b0b7bc3902b27",
+        "hostnames": [
+            "mijnnijmegen.staging.yiviconnect.nl",
+            "webformulierenaccp.staging.yiviconnect.nl",
+            "api.yivi-voor-medewerkers.yivi-nijmegen-accp.csp-nijmegen.nl"
+        ],
+        "name": {
+            "en": "City of Nijmegen (accp)",
+            "nl": "Gemeente Nijmegen (accp)"
+        },
+        "scheme": "pbdf-requestors"
     }
 ]
