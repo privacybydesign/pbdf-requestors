@@ -102,7 +102,8 @@
             "sidnsmsissuer.irmaconnect.nl",
             "sidnsmsissuer.yiviconnect.nl",
             "uniqueid.irmaconnect.nl",
-            "uniqueid.yiviconnect.nl"
+            "uniqueid.yiviconnect.nl",
+            "is.yivi.app"
         ],
         "name": {
             "en": "Yivi",
