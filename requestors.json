@@ -194,11 +194,7 @@
         "id": "pbdf-requestors.pubhubs",
         "logo": "0678b523c84ab1c28678775290b08a9a7d35949c6d7c94c623818c2448ef758a",
         "hostnames": [
-            "pubhubs.eu",
-            "pubhubs.nl",
-            "pubhubs.net",
-            "pubhubs.org",
-            "stable.pubhubs.ihub.ru.nl"
+            "app.pubhubs.net"
         ],
         "name": {
             "en": "PubHubs",
