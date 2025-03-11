@@ -103,7 +103,8 @@
             "sidnsmsissuer.yiviconnect.nl",
             "uniqueid.irmaconnect.nl",
             "uniqueid.yiviconnect.nl",
-            "is.yivi.app"
+            "is.yivi.app",
+            "is.staging.yivi.app"
         ],
         "name": {
             "en": "Yivi",
@@ -119,7 +120,8 @@
             "acc.id.amsterdam.nl",
             "irma-id.pinkprivate.cloud",
             "irma-id-acc.pinkprivate.cloud",
-            "amsterdam.yiviconnect.nl"
+            "amsterdam.yiviconnect.nl",
+            "irma-server.prod.company.gcp.stack11.net"
         ],
         "name": {
             "en": "City of Amsterdam",
