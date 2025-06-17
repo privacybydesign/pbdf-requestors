@@ -104,7 +104,9 @@
             "uniqueid.irmaconnect.nl",
             "uniqueid.yiviconnect.nl",
             "is.yivi.app",
-            "is.staging.yivi.app"
+            "is.staging.yivi.app",
+            "my.irma.app",
+            "my.yivi.app"
         ],
         "name": {
             "en": "Yivi",
@@ -167,19 +169,6 @@
         "scheme": "pbdf-requestors"
     },
     {
-        "id": "pbdf-requestors.my-yivi",
-        "logo": "5035c4dd026753812010c5bd834e9715138763970652815db2223a2261d1d508",
-        "hostnames": [
-            "my.irma.app",
-            "my.yivi.app"
-        ],
-        "name": {
-            "en": "My Yivi",
-            "nl": "Mijn Yivi"
-        },
-        "scheme": "pbdf-requestors"
-    },
-    {
         "id": "pbdf-requestors.postguard",
         "logo": "d15bdea93df17e7c46d3be022529793b8315f3d47db1dc763eebdd3cd81a070d",
         "hostnames": [
@@ -193,7 +182,7 @@
         "scheme": "pbdf-requestors"
     },
     {
-        "id": "pbdf-requestors.pubhubs",
+        "id": "pbdf-requestors.PubHubs",
         "logo": "0678b523c84ab1c28678775290b08a9a7d35949c6d7c94c623818c2448ef758a",
         "hostnames": [
             "app.pubhubs.net"
