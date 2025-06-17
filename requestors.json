@@ -97,10 +97,6 @@
         "id": "pbdf-requestors.sidn-pbdf",
         "logo": "5035c4dd026753812010c5bd834e9715138763970652815db2223a2261d1d508",
         "hostnames": [
-            "sidnemailissuer.irmaconnect.nl",
-            "sidnemailissuer.yiviconnect.nl",
-            "sidnsmsissuer.irmaconnect.nl",
-            "sidnsmsissuer.yiviconnect.nl",
             "uniqueid.irmaconnect.nl",
             "uniqueid.yiviconnect.nl",
             "is.yivi.app",
