@@ -143,8 +143,7 @@
         "id": "pbdf-requestors.cis",
         "logo": "bea058fee9cceaa35f3ba3c410bac454a9e898516d7febc131277e90b68df5b3",
         "hostnames": [
-            "digitaalpaspoortverzekeren.nl",
-            "yivi.digitaalpaspoortverzekeren.nl"
+            "inzage.stichtingcis.nl"
         ],
         "name": {
             "en": "Foundation Central Information System",
