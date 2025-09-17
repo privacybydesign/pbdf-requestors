@@ -215,5 +215,17 @@
             "nl": "Gemeente Nijmegen (accp)"
         },
         "scheme": "pbdf-requestors"
+    },
+    {
+        "id": "pbdf-requestors.tartarus",
+        "logo": "95c779e294a4430bccaea10b12a1089d3695954ac933ca818b619c7b64f6afe2",
+        "hostnames": [
+            "yivi.tosti.science.ru.nl"
+        ],
+        "name": {
+            "en": "Tartarus Foundation",
+            "nl": "Stichting Tartarus"
+        },
+        "scheme": "pbdf-requestors"
     }
 ]
