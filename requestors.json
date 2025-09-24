@@ -180,7 +180,8 @@
         "id": "pbdf-requestors.PubHubs",
         "logo": "0678b523c84ab1c28678775290b08a9a7d35949c6d7c94c623818c2448ef758a",
         "hostnames": [
-            "app.pubhubs.net"
+            "app.pubhubs.net",
+            "yivi.pubhubs.net"
         ],
         "name": {
             "en": "PubHubs",
@@ -225,6 +226,18 @@
         "name": {
             "en": "Tartarus Foundation",
             "nl": "Stichting Tartarus"
+        },
+        "scheme": "pbdf-requestors"
+    },
+    {
+        "id": "pbdf-requestors.kavelwinkel-almere",
+        "logo": "8655d354ea1e9286663fec02f352bc6b976e59a1d41ea76e3e4ea0cafff2a858",
+        "hostnames": [
+            "almere-irma-prod.level-level.nl"
+        ],
+        "name": {
+            "en": "Kavelwinkel Almere",
+            "nl": "Kavelwinkel Almere"
         },
         "scheme": "pbdf-requestors"
     }
