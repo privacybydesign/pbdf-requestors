@@ -195,7 +195,8 @@
         "hostnames": [
             "mijnnijmegen.yiviconnect.nl",
             "webformulierenprod.yiviconnect.nl",
-            "api.yivi-voor-medewerkers.yivi-nijmegen-prod.csp-nijmegen.nl"
+            "api.yivi-voor-medewerkers.yivi-nijmegen-prod.csp-nijmegen.nl",
+            "openformulierenyivi.yiviconnect.nl"
         ],
         "name": {
             "en": "City of Nijmegen",
@@ -209,7 +210,8 @@
         "hostnames": [
             "mijnnijmegen.staging.yiviconnect.nl",
             "webformulierenaccp.staging.yiviconnect.nl",
-            "api.yivi-voor-medewerkers.yivi-nijmegen-accp.csp-nijmegen.nl"
+            "api.yivi-voor-medewerkers.yivi-nijmegen-accp.csp-nijmegen.nl",
+            "openformulierenaccpyivi.staging.yiviconnect.nl"
         ],
         "name": {
             "en": "City of Nijmegen (accp)",
