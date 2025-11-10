@@ -242,5 +242,17 @@
             "nl": "Kavelwinkel Almere"
         },
         "scheme": "pbdf-requestors"
+    },
+    {
+        "id": "pbdf-requestors.justitiele-informatiedienst",
+        "logo": "a725dfe96ab63d1dd30902829f554188668b9028297df39b9d6de46163996963",
+        "hostnames": [
+            "identity.idconnect.nl"
+        ],
+        "name": {
+            "en": "Judicial Information Service",
+            "nl": "Justitiële Informatiedienst"
+        },
+        "scheme": "pbdf-requestors"
     }
 ]
