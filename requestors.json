@@ -254,5 +254,18 @@
             "nl": "Justitiële Informatiedienst"
         },
         "scheme": "pbdf-requestors"
+    },
+    {
+        "id": "pbdf-requestors.stichting-cis",
+        "logo": "29c95a90c576579af2ab70151b3e54780731bb18b8bdd93d8960dfe5f70696fc",
+        "hostnames": [
+            "yivi.seps.nl",
+            "ca-seps-inzage-prd-01.purplecliff-ac1d67ae.westeurope.azurecontainerapps.io"
+        ],
+        "name": {
+            "en": "EPS",
+            "nl": "EPS"
+        },
+        "scheme": "pbdf-requestors"
     }
 ]
