@@ -267,5 +267,17 @@
             "nl": "EPS"
         },
         "scheme": "pbdf-requestors"
+    },
+    {
+        "id": "pbdf-requestors.minvws-cibg",
+        "logo": "e18825e03a77d5800b3f9989f7560d603144c31c6d4f9198e6195db3df304db5",
+        "hostnames": [
+            "login-uzi.pilot.uzi-online.minvws.nl"
+        ],
+        "name": {
+            "en": "UZI-Online",
+            "nl": "UZI-Online"
+        },
+        "scheme": "pbdf-requestors"
     }
 ]
