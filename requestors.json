@@ -272,12 +272,11 @@
         "id": "pbdf-requestors.belastingen-nijmegen",
         "logo": "61e1239aaeb29d73691aa41f9d293157c80e224f41f646c2595b0b7bc3902b27",
         "hostnames": [
-            "yivi.seps.nl",
-            "ca-seps-inzage-prd-01.purplecliff-ac1d67ae.westeurope.azurecontainerapps.io"
+            "belastingen.nijmegen.nl"
         ],
         "name": {
-            "en": "EPS",
-            "nl": "EPS"
+            "en": "Tax Office Nijmegen",
+            "nl": "Belasting Loket Nijmegen"
         },
         "scheme": "pbdf-requestors"
     }
