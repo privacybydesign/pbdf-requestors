@@ -269,14 +269,14 @@
         "scheme": "pbdf-requestors"
     },
     {
-        "id": "pbdf-requestors.minvws-cibg",
-        "logo": "e18825e03a77d5800b3f9989f7560d603144c31c6d4f9198e6195db3df304db5",
+        "id": "pbdf-requestors.belastingen-nijmegen",
+        "logo": "61e1239aaeb29d73691aa41f9d293157c80e224f41f646c2595b0b7bc3902b27",
         "hostnames": [
-            "login.pilot.uzi-online.minvws.nl"
+            "belastingen.nijmegen.nl"
         ],
         "name": {
-            "en": "UZI-Online",
-            "nl": "UZI-Online"
+            "en": "Tax Office Nijmegen",
+            "nl": "Belasting Loket Nijmegen"
         },
         "scheme": "pbdf-requestors"
     }
