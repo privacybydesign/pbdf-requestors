@@ -132,7 +132,8 @@
         "logo": "f8f6e142bfbb2a6ca936c5718246bd62ed4a288a0125abf7581a841f9dfeff8a",
         "hostnames": [
             "wallets.yivi.ver.id",
-            "yivi.wallets.ver.id"
+            "yivi.wallets.ver.id",
+            "yivi.wallets.staging.ver.id"
         ],
         "name": {
             "en": "Ver.iD",
