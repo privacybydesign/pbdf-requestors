@@ -281,5 +281,18 @@
             "nl": "Belasting Loket Nijmegen"
         },
         "scheme": "pbdf-requestors"
+    },
+    {
+        "id": "pbdf-requestors.procolix",
+        "logo": "9fe8a9c90b55a7037a123aa13984c267e4a90cd545209d6a65ee7a132f15b39e",
+        "hostnames": [
+            "login.procolix.eu",
+            "login.irma-meet.nl"
+        ],
+        "name": {
+            "en": "Procolix",
+            "nl": "Procolix"
+        },
+        "scheme": "pbdf-requestors"
     }
 ]
