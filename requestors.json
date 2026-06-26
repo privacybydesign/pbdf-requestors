@@ -319,5 +319,41 @@
             "nl": "Zynyo"
         },
         "scheme": "pbdf-requestors"
+    },
+    {
+        "id": "pbdf-requestors.bijdebieb",
+        "logo": "4575959b0c77c4f33383fb5cca42150970474bf058ddaf5563da7c6357596cdd",
+        "hostnames": [
+            "pubhubs.bijdebieb.nl"
+        ],
+        "name": {
+            "en": "Bij de Bieb",
+            "nl": "Bij de Bieb"
+        },
+        "scheme": "pbdf-requestors"
+    },
+    {
+        "id": "pbdf-requestors.radboud",
+        "logo": "48d35bf45653bd4d7ff4635d50b06ac64cf8168e557e310a74db5623b0d2952b",
+        "hostnames": [
+            "pubhubs.ru.nl"
+        ],
+        "name": {
+            "en": "Radboud University",
+            "nl": "Radboud Universiteit"
+        },
+        "scheme": "pbdf-requestors"
+    },
+    {
+        "id": "pbdf-requestors.digitomia",
+        "logo": "56e247bf3019b7f98c8e83bddac11975acd50076de0f4b17ed4f4836be9d8c8b",
+        "hostnames": [
+            "hub.digitomia.nl"
+        ],
+        "name": {
+            "en": "Digitomia",
+            "nl": "Digitomia"
+        },
+        "scheme": "pbdf-requestors"
     }
 ]
