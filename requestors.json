@@ -355,5 +355,29 @@
             "nl": "Digitomia"
         },
         "scheme": "pbdf-requestors"
+    },
+    {
+        "id": "pbdf-requestors.julius",
+        "logo": "83e1b25386c5a4b44d6c7fbd17c3b78e45b101f77edaf966c2362deea1a60cf7",
+        "hostnames": [
+            "Yivi.julius.nl"
+        ],
+        "name": {
+            "en": "Julius",
+            "nl": "Julius"
+        },
+        "scheme": "pbdf-requestors"
+    },
+    {
+        "id": "pbdf-requestors.radboud-password-reset",
+        "logo": "559c56cb38818aac1ffa819e38be47a2f896d159592e9606170f23c8f4db26e4",
+        "hostnames": [
+            "eduwallet.ru.nl"
+        ],
+        "name": {
+            "en": "Radboud University",
+            "nl": "Radboud Universiteit"
+        },
+        "scheme": "pbdf-requestors"
     }
 ]
