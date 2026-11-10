@@ -379,5 +379,17 @@
             "nl": "Radboud Universiteit"
         },
         "scheme": "pbdf-requestors"
+    },
+    {
+        "id": "pbdf-requestors.cmcom",
+        "logo": "6284f5f030d2fef0968bc017bf03f3127ddd8f862a6c800887abb7b181bb9823",
+        "hostnames": [
+            "api.cm.com"
+        ],
+        "name": {
+            "en": "CM.com",
+            "nl": "CM.com"
+        },
+        "scheme": "pbdf-requestors"
     }
 ]
