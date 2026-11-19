@@ -33,6 +33,7 @@
             "en": "Gebiedonline",
             "nl": "Gebiedonline"
         },
+        "support_url": "https://gebiedonline.nl/contact",
         "scheme": "pbdf-requestors"
     },
     {
@@ -50,6 +51,8 @@
             "en": "Yivi",
             "nl": "Yivi"
         },
+        "support_email": "support@yivi.app",
+        "support_url": "https://yivi.app/contact/",
         "scheme": "pbdf-requestors"
     },
     {
@@ -64,6 +67,8 @@
             "en": "Ver.iD",
             "nl": "Ver.iD"
         },
+        "support_email": "hello@ver.id",
+        "support_url": "https://ver.id/nl/contact",
         "scheme": "pbdf-requestors"
     },
     {
@@ -76,6 +81,8 @@
             "en": "Foundation Central Information System",
             "nl": "Stichting Centraal Informatie Systeem"
         },
+        "support_email": "info@stichtingcis.nl",
+        "support_url": "https://stichtingcis.nl/nl-nl/CIS/Contact",
         "scheme": "pbdf-requestors"
     },
     {
@@ -101,6 +108,8 @@
             "en": "PostGuard",
             "nl": "PostGuard"
         },
+        "support_email": "info@postguard.eu",
+        "support_url": "https://postguard.eu/about/",
         "scheme": "pbdf-requestors"
     },
     {
@@ -114,6 +123,8 @@
             "en": "PubHubs",
             "nl": "PubHubs"
         },
+        "support_email": "contact@pubhubs.net",
+        "support_url": "https://www.pubhubs.net/nl/help/",
         "scheme": "pbdf-requestors"
     },
     {
@@ -129,6 +140,7 @@
             "en": "City of Nijmegen",
             "nl": "Gemeente Nijmegen"
         },
+        "support_url": "https://www.nijmegen.nl/contact/",
         "scheme": "pbdf-requestors"
     },
     {
@@ -144,6 +156,7 @@
             "en": "City of Nijmegen (accp)",
             "nl": "Gemeente Nijmegen (accp)"
         },
+        "support_url": "https://www.nijmegen.nl/contact/",
         "scheme": "pbdf-requestors"
     },
     {
@@ -156,6 +169,8 @@
             "en": "Tartarus Foundation",
             "nl": "Stichting Tartarus"
         },
+        "support_email": "tartarus@science.ru.nl",
+        "support_url": "https://tartarus.science.ru.nl/contact/",
         "scheme": "pbdf-requestors"
     },
     {
@@ -168,6 +183,8 @@
             "en": "Kavelwinkel Almere",
             "nl": "Kavelwinkel Almere"
         },
+        "support_email": "info@kavelwinkel.almere.nl",
+        "support_url": "https://kavelwinkel.almere.nl/contact/",
         "scheme": "pbdf-requestors"
     },
     {
@@ -180,6 +197,8 @@
             "en": "Judicial Information Service",
             "nl": "Justitiële Informatiedienst"
         },
+        "support_email": "info@justid.nl",
+        "support_url": "https://www.justid.nl/service/contact",
         "scheme": "pbdf-requestors"
     },
     {
@@ -193,6 +212,8 @@
             "en": "EPS",
             "nl": "EPS"
         },
+        "support_email": "info@seps.nl",
+        "support_url": "https://www.seps.nl/contact/",
         "scheme": "pbdf-requestors"
     },
     {
@@ -205,6 +226,7 @@
             "en": "Tax Office Nijmegen",
             "nl": "Belasting Loket Nijmegen"
         },
+        "support_email": "gemeente@nijmegen.nl",
         "scheme": "pbdf-requestors"
     },
     {
@@ -218,6 +240,8 @@
             "en": "Procolix",
             "nl": "Procolix"
         },
+        "support_email": "support@procolix.eu",
+        "support_url": "https://procolix.eu/support",
         "scheme": "pbdf-requestors"
     },
     {
@@ -243,6 +267,8 @@
             "en": "Zynyo",
             "nl": "Zynyo"
         },
+        "support_email": "support@zynyo.com",
+        "support_url": "https://zynyo.com/support/",
         "scheme": "pbdf-requestors"
     },
     {
@@ -255,6 +281,8 @@
             "en": "Bij de Bieb",
             "nl": "Bij de Bieb"
         },
+        "support_email": "info@bijdebieb.nl",
+        "support_url": "https://www.bijdebieb.nl/klantenservice/contact.html",
         "scheme": "pbdf-requestors"
     },
     {
@@ -303,6 +331,8 @@
             "en": "Radboud University",
             "nl": "Radboud Universiteit"
         },
+        "support_email": "icthelpdesk@ru.nl",
+        "support_url": "https://www.ru.nl/services/campusfaciliteiten-gebouwen/ict/wachtwoord/wachtwoord-vergeten",
         "scheme": "pbdf-requestors"
     },
     {
